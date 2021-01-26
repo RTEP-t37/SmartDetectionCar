@@ -1,4 +1,4 @@
 # SmartCar
-Haohan Cao
-Yang Liu
-Zhengyang Hu
+Haohan Cao;
+Yang Liu;
+Zhengyang Hu;
